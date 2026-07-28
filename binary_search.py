@@ -24,6 +24,6 @@ def veryfi(index):
 
 num=[1,2,3,4,5,6,7,8,9,10]
 
-result=binary_search(num,12)
+result=binary_search(num,1)
 
 veryfi(result)
